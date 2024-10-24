@@ -1,1 +1,2 @@
 Este es un archivo de practica para aprender Github.
+esta es la segunda linea para praticar commints.
